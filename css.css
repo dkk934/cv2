@@ -144,7 +144,7 @@ button {
     box-shadow: 5px 5px 15px 5px rgb(199, 198, 198), 0 0 10px white;
 }
 a {
-    text-transform: capitalize;
+    text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     text-decoration: none;
